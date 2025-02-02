@@ -1,0 +1,12 @@
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.deps.json
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.dll
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.pdb
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.csproj.AssemblyReference.cache
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.AssemblyInfoInputs.cache
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.AssemblyInfo.cs
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.csproj.CoreCompileInputs.cache
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.dll
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\refint\AspireApp1.ServiceDefaults.dll
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.pdb
+X:\opti\AlloyCms12Aspire\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\ref\AspireApp1.ServiceDefaults.dll

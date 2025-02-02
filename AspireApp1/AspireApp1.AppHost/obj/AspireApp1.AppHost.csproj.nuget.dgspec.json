@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "X:\\opti\\AlloyCms12Aspire\\AspireApp1\\AspireApp1.AppHost\\AspireApp1.AppHost.csproj": {}
+  },
+  "projects": {
+    "X:\\opti\\AlloyCms12Aspire\\AspireApp1\\AspireApp1.AppHost\\AspireApp1.AppHost.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "X:\\opti\\AlloyCms12Aspire\\AspireApp1\\AspireApp1.AppHost\\AspireApp1.AppHost.csproj",
+        "projectName": "AspireApp1.AppHost",
+        "projectPath": "X:\\opti\\AlloyCms12Aspire\\AspireApp1\\AspireApp1.AppHost\\AspireApp1.AppHost.csproj",
+        "packagesPath": "C:\\Users\\valdi\\.nuget\\packages\\",
+        "outputPath": "X:\\opti\\AlloyCms12Aspire\\AspireApp1\\AspireApp1.AppHost\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\valdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "X:\\nuget-feed": {},
+          "https://api.nuget.optimizely.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.omnium.no/nuget": {},
+          "https://nuget.pkg.github.com/geta/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Aspire.Dashboard.Sdk.win-x64": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            },
+            "Aspire.Hosting.AppHost": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Aspire.Hosting.Orchestration.win-x64": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "autoReferenced": true
+            },
+            "Aspire.Hosting.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.25057.12/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
